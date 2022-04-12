@@ -1,18 +1,20 @@
 
 # Python Epidemic Simulation
 
+## The final outcome of this project could be found in [Report.md](https://github.com/Norman-ts20365/Futher-Computer-Programming/blob/main/Report.md)
+
 This project consists of 2 simulation models:
 
-**1. Simulation based on population in a grid (which can be found in [modified_model](https://github.com/Robbie-Mackay/Further-computing-project/tree/main/modified_model)):**
+**1. Simulation based on population in a grid (which can be found in [modified_model](https://github.com/Norman-ts20365/Futher-Computer-Programming/tree/main/modified_model)):**
 
     $ python model_runsim.py 
 
-**2. Simulation based on population acting as particles (which can be found in [main](https://github.com/Robbie-Mackay/Further-computing-project)):**
+**2. Simulation based on population acting as particles (which can be found in [main](https://github.com/Norman-ts20365/Futher-Computer-Programming)):**
 
     $ python simulation.py
 
 ### First model: model_runsim.py
-This script can be found in this folder: [modified_model](https://github.com/Robbie-Mackay/Further-computing-project/tree/main/modified_model)
+This script can be found in this folder: [modified_model](https://github.com/Norman-ts20365/Futher-Computer-Programming/tree/main/modified_model)
 
 This script runs simulations of an epidemic (e.g. coronavirus) spreading
 around people on a 2-dimensional grid. The script can be used to:
