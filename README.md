@@ -1,7 +1,7 @@
 
 # Python Epidemic Simulation
 
-## The final outcome of this project could be found in [Report.md](https://github.com/Norman-ts20365/Futher-Computer-Programming/blob/main/Report.md)
+**The final outcome of this project could be found in [Report.md](https://github.com/Norman-ts20365/Futher-Computer-Programming/blob/main/Report.md)**
 
 This project consists of 2 simulation models:
 
